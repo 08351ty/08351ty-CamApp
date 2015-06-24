@@ -141,9 +141,9 @@ containing a value of this type.
     }
     public static final class id {
         public static final int container=0x7f080000;
-        public static final int gallery=0x7f080003;
-        public static final int info=0x7f080004;
-        public static final int picture=0x7f080002;
+        public static final int gallery=0x7f080002;
+        public static final int picture=0x7f080004;
+        public static final int takepic=0x7f080003;
         public static final int texture=0x7f080001;
     }
     public static final class layout {

@@ -18,6 +18,5 @@
     android:id="@+id/container"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="#000"
     tools:context="com.example.android.camera2basic.CameraActivity" />
 <!-- From: file:/Users/owner/Downloads/android-Camera2Basic-master/Application/src/main/res/layout/activity_camera.xml -->

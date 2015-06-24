@@ -28,9 +28,9 @@ int drawable ic_action_takepic 0x7f020001
 int drawable ic_launcher 0x7f020002
 int drawable tile 0x7f020003
 int id container 0x7f080000
-int id gallery 0x7f080003
-int id info 0x7f080004
-int id picture 0x7f080002
+int id gallery 0x7f080002
+int id picture 0x7f080004
+int id takepic 0x7f080003
 int id texture 0x7f080001
 int layout activity_camera 0x7f030000
 int layout fragment_camera2_basic 0x7f030001
