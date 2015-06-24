@@ -28,7 +28,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true" >
+        android:layout_alignParentStart="true"
+        android:background="#000000">
+
+        <ImageButton
+
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:id="@+id/takepic"
+            android:layout_gravity="center"
+            android:padding="50dp"
+            android:background="@drawable/ic_action_takepic" />
 
         <ImageButton
             android:id="@+id/gallery"
@@ -40,13 +50,11 @@
             android:background="@drawable/ic_action_gallery" />
 
         <ImageButton
-
-            android:layout_width="75dp"
-            android:layout_height="75dp"
-            android:id="@+id/takepic"
-            android:layout_gravity="center"
-            android:padding="50dp"
-            android:background="@drawable/ic_action_takepic" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:layout_gravity="left|center_vertical"
+            android:src="@drawable/ic_action_received" />
 
     </FrameLayout>
 
